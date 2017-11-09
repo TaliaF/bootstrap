@@ -1,0 +1,568 @@
+    1  l
+    2  pwd
+    3  cd /
+    4  cd ~
+    5  whoami
+    6  clear
+    7  pwd
+    8  cd /
+    9  cd / home / uubuntu
+   10  cd /
+   11  ls
+   12  cd /boot
+   13  ls
+   14  ls /bin
+   15  clear
+   16  ls /
+   17  cd /home
+   18  ls
+   19  mkdir cabox
+   20  sudo mkdir ubuntu
+   21  cd ubuntu
+   22  ls
+   23  clear
+   24  pwd
+   25  cd workspace/
+   26  ls
+   27  mkdir firstName
+   28  mkdir firstname
+   29  cd first
+   30  cd firstName/
+   31  mkdir lastName
+   32  mkdir maidenName
+   33  ls
+   34  cd lastName/
+   35  touch lname
+   36  ls
+   37  cat lname
+   38  echo Fappiano > lname
+   39  cat lname
+   40  echo Gump >lname
+   41  cat lname
+   42  echo Milhouse >>lname
+   43  cat lname
+   44  vi lname 
+   45  cat lname
+   46  mv > maidenname
+   47  mv cool story /lastName/firstName/workspace
+   48  mv cool story cd
+   49  mv workspace/firstName/movestory
+   50  lname
+   51  ls..
+   52  ls
+   53  cat maidenname
+   54  mv maidename lname
+   55  mv maidenname lname
+   56  ls
+   57  cd ..
+   58  ls
+   59  mv lname maidenName
+   60  hello '
+   61  history
+   62  history > history.txt
+   63  ls
+   64  c9 history.txt
+   65  ..
+   66  touch index.html
+   67  ..
+   68  /workspace
+   69  workspace/
+   70  ~workspace/
+   71  index.html  package.json
+   72  clear
+   73  /
+   74  workspace
+   75  cd
+   76  workspace
+   77  cd 
+   78  ~
+   79  /home
+   80  /
+   81  ..
+   82  cd ~www-data/
+   83  ssh-agent bash
+   84  clear
+   85  cd
+   86  clear
+   87  cd ~
+   88  cd workspace/
+   89  $ ls
+   90  ls
+   91  mkdir htmlLesson
+   92  cd htmlLesson/
+   93  touch index.html
+   94  c9 index.html
+   95  touch style.css
+   96  c9 style.css
+   97  ls
+   98  cd htmlLesson
+   99  cd htmlLesson/
+  100  cd htmlLesson
+  101  git init
+  102  git status
+  103  git add index.html
+  104  git status
+  105  git add htmlLesson
+  106  git add .htmlLesson
+  107  git status
+  108  git add style.css
+  109  git status
+  110  git add .
+  111  git status
+  112  git commit
+  113  git commit -m "Initial Commit"
+  114  git status
+  115  git checkout index.html
+  116  git status
+  117  git checkout index.html
+  118  cd htmlLesson/
+  119  mkdir scripts
+  120  cd scripts
+  121  touch scripts.js
+  122  c9 scripts.js
+  123  git status
+  124  git add -A
+  125  git status
+  126  cd htmlLesson
+  127  ls
+  128  git status
+  129  git add -A
+  130  git status
+  131  -m "modify index and add scripts.js"
+  132  git commit -m "modify index and add scripts.js"
+  133  git remote add origin git@github.com:TaliaF/cdEveningGitLesson.git
+  134  git push -u origin master
+  135  clear
+  136  cd workspace
+  137  cd workspac/
+  138  cd..
+  139  cd workspace/
+  140  ~
+  141  cd workspace
+  142  cd .git
+  143  git log --pretty=oneline
+  144  clear
+  145  git status
+  146  clear
+  147  cd htmlLesson
+  148  git init
+  149  mkdir projectOne
+  150  touch index.html
+  151  c9 index.html
+  152  cd projectOne
+  153  touch index.html
+  154  c9 index.html
+  155  <html >
+  156  <head>
+  157  </head>
+  158  <body>
+  159  <div class=top>
+  160  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/An_Evening_with_John_Denver_album_cover.jpg/220px-An_Evening_with_John_Denver_album_cover.jpg">
+  161  <img src="http://volt-and-volume.com/assets/Uploads/_resampled/croppedimage228228-The-Essential-John-Denver-3-CD-version-Album-Cover-Volt-and-Volume.jpg">
+  162  <img src="https://images-na.ssl-images-amazon.com/images/I/614qh14ECnL.jpg">
+  163  <img src="http://www.musicko.com/wp-content/uploads/Greatest-Country-Hits.jpg">
+  164  <img src="https://upload.wikimedia.org/wikipedia/en/9/92/Very_Best_of_John_Denver_album_cover.jpg">
+  165  </div>
+  166  <h1>A tribute to</h1>
+  167  <span style="font-weight:600; font-size:30px;">"</span>Henry John Deutschendorf Jr. definitely is not a name that any record company, manager, or publicist would have an artist use as their stage name. A member of one of his favorite musical acts, The New Christy Minstrels also agreed, urging the developing folk singer to adopt a more marketable name. He chose John Denver and the stage was set for one of the biggest decades of any artists’ career.
+  168  In the early 1970s, America was beginning to long for a simpler way of life – as evidenced by the success of television series The Waltons and Little House On The Prairie. At the heart of that era from a musical standpoint was the easy-going and gentle sound that Denver personified. Whether it be love songs, nostalgia, or paying tribute to the area where he was from, Denver became one of the biggest-selling acts of his time, dominating Pop, AC, and Country playlists, while also becoming a huge TV and movie star. It goes without saying that many of the compositions in our list of essential John Denver songs come from the 1970s, but a few later recordings show that his music -- and talent -- were timeless pieces of Americana -- before that was a word or a format.<span style="font-weight:600; font-size:30px;">"</span><br /><br />- Chuck Dauphin, 2017</p>
+  169  <button><a href="http://www.billboard.com/articles/columns/country/7865859/john-denver-songs-best-hits-list" target="_blank">Read More</a></button>
+  170  <div class="full">
+  171  <ol>
+  172  <div id="carouselExampleIndicators" class="carousel" data-ride="carousel">
+  173  </div>
+  174  <div class="join"> 
+  175  <input type="text">
+  176  <input type="submit">
+  177  </div>
+  178  </body>
+  179  </html>
+  180  clear
+  181  mkdir css
+  182  cd css
+  183  touch style.css
+  184  c9 style.css
+  185  cd projectOne
+  186  cd htmlLesson
+  187  ~
+  188  cd workspace
+  189  git init
+  190  clear
+  191  cd workspace/
+  192  ..
+  193  mkdir js
+  194  cd js
+  195  touch index.js
+  196  c9 index.js
+  197  clear
+  198  ..
+  199  cd projectOne
+  200  ..
+  201  history.txt
+  202  git init
+  203  clear
+  204  ..
+  205  git init
+  206  git status
+  207  git add projectOne/
+  208  git status
+  209  git push
+  210  git remote add origin git@github.com:TaliaF/projectOneTribute.git
+  211  git push
+  212  git push -u origin master
+  213  git status
+  214  git commit -m "batch commit"
+  215  git status
+  216  git push
+  217  clear
+  218  git config --global user.name "Talia Fappiano"
+  219  git config --global user.email "taliafappiano@gmail.com"
+  220  git config --global core.autocrlf input
+  221  git config --global core.safecrlf true
+  222  mkdir hello
+  223  cd hello
+  224  tocuh hello.rb
+  225  touch hello.rb
+  226  ls
+  227  c9 hello.rb
+  228  git init
+  229  git add hello.rb
+  230  git status
+  231  git commit -m "First Commit"
+  232  git status
+  233  UTE:
+  234  git add hello.rb
+  235  git status
+  236  git commit
+  237  git status
+  238  git commit
+  239  ls
+  240  git status
+  241  git commit
+  242  git status
+  243  git commit
+  244  git status
+  245  git add hello.rb
+  246  git status
+  247  git add hello.rb
+  248  git status
+  249  git add hello.rb
+  250  git status
+  251  git add hello.rb
+  252  git status
+  253  git add hello.rb
+  254  git status
+  255  # Default is "World"
+  256  name = ARGV.first || "World"
+  257  puts "Hello, #{name}!"
+  258  git commit -m "Added a default value"
+  259  git status
+  260  git add.
+  261  git status
+  262  git add hello.rb
+  263  git status
+  264  git add .
+  265  git status
+  266  git commit -m "Added a comment"
+  267  git status
+  268  git log
+  269  cd hello
+  270  git st
+  271  git hist
+  272  git checkout <2f1021a>
+  273  git checkout 2f1021a
+  274  cat hello.rb
+  275  git co master
+  276  git ta v1
+  277  git tag v1
+  278  git checkout v1^
+  279  git tag v1-beta
+  280  git co v1
+  281  git co v1-beta
+  282  git tag
+  283  git hist master --all
+  284  git co  master
+  285  git status
+  286  git checkout hello.rb
+  287  git status
+  288  cat hello.rb
+  289  git add hello.rb
+  290  git st
+  291  git reset HEAD hello.rb
+  292  git status
+  293  git co hello.rb
+  294  git status
+  295  git add hello.rb
+  296  git commit -m "Oops, we didn't want this commit"
+  297  git revert HEAD
+  298  git hist
+  299  git tag oops
+  300  git reset--hard v1
+  301  git hist
+  302  git hist --all
+  303  git tag -d oops
+  304  git hist --all
+  305  git add hello.rb
+  306  git st
+  307  git commit -m "Author Comment"
+  308  git add hello.rb
+  309  git st
+  310  git commit --amend -m "Add an author/email comment"
+  311  git st
+  312  git hist
+  313  mkdir lib
+  314  git mv hello.rb lib
+  315  git status
+  316  git commit -m "Moved hello.rb to lib"
+  317  git st
+  318  gem install rake
+  319  touch rakefile
+  320  c9 rakefile
+  321  git add rakefile
+  322  git commit -m "add rakefile"
+  323  rake
+  324  ls -C .git
+  325  EXECUTE:
+  326  ls -C .git/objects
+  327  ls -C .git/objects/<dir>
+  328  cat .git/config
+  329  ls .git/refs
+  330  ls .git/refs/heads
+  331  ls .git/refs/tags
+  332  cat .git/refs/tags/v1
+  333  cat .git/HEAD
+  334  git hist --max-count=1
+  335  git cat-file -t <hash>
+  336  git cat-file -p <hash>
+  337  git cat-file -t 779a994
+  338  git cat-file -p 77a884
+  339  git cat-file -p 77a994
+  340  git cat-file -p 779a994
+  341  git cat-file -p 5fb28dbf5a1a7f0f6c4b19eaff464ddf544288df
+  342  git cat-file -p fc9ecd9fbc89274cce82d6bfb1212d1387852c80
+  343  git cat-file -p 2c6d56e928587e058273c28ed488f3f17f6be08f
+  344  cat-file -p fc9ecd9fbc89274cce82d6bfb1212d1387852c80
+  345  cat-file -p git checkout -b greet
+  346  git status
+  347  git checkout -b greet
+  348  git status
+  349  cd hello
+  350  cd lib
+  351  touch greeter.rb
+  352  c9 greeter.rb
+  353  git add greeter.rb
+  354  git commit -m "Added Greater Class"
+  355  cp hello.rb
+  356  git add lib/hello.rb
+  357  git add hello.rb
+  358  git st
+  359  git commit -m "Hello uses Greeter"
+  360  git add Rakefile
+  361  git commit -m "Updated Rakefile"
+  362  ..
+  363  git add rakefile
+  364  git commit -m "updated rakefile"
+  365  git hist --all
+  366  git checkout master
+  367  cat lib/hello.rb
+  368  git checkout greet
+  369  cat lib/hello.rb
+  370  git co master
+  371  touch README
+  372  c9 README
+  373  git add README
+  374  git commit -m "Added README"
+  375  git hist --all
+  376  cd hello
+  377  git hist --all
+  378  cd hello
+  379  git co greet
+  380  git merge master
+  381  git hist --all
+  382  git inti
+  383  git init
+  384  clear
+  385  cd hello
+  386  git init hello
+  387  git add hello
+  388  git remote add origin git@github.com:TaliaF/gitImmersion.git
+  389  git push -u origin master
+  390  clear
+  391  git init
+  392  ..
+  393  git init
+  394  ls
+  395  git remote add origin git@github.com:TaliaF/gitImmersiontutorial.git
+  396  git status
+  397  git add hello/
+  398  git status
+  399  git commit -m "batch tutorial gitimmersion"
+  400  git status
+  401  push
+  402  git push
+  403  clear
+  404  cd hello
+  405  mkdir classroomActivty
+  406  cd classroomActivity
+  407  cd classroomActivty
+  408  touch addnumbers.js
+  409  ls
+  410  c9 addnumbers.js
+  411  ..
+  412  cd classroomActvty
+  413  cd classroomActivty
+  414  touch activity.html
+  415  c9 activity.html
+  416  git init
+  417  git add activity.html
+  418  git commit -m "classroom"
+  419  git remote add origin git@github.com:TaliaF/classroomAssignmentAdd.git
+  420  git push -u origin master
+  421  clear
+  422  touch script.js
+  423  c9 script.js
+  424  node script.js
+  425  clear
+  426  node script.js
+  427  clear
+  428  ..
+  429  ls
+  430  ..
+  431  pwd
+  432  cd workspace
+  433  cd workspace/
+  434  who am i
+  435  ls
+  436  pwd
+  437  cd
+  438  cd ~/workspace/
+  439  cd /home
+  440  cd ubuntu/
+  441  cd workspace/
+  442  ls
+  443  mkdir unix101a
+  444  ls
+  445  cd unix101a/
+  446  ls
+  447  mkdir rhode\ island
+  448  ls
+  449  mkdir "new york"
+  450  ls
+  451  cd rhode\ island
+  452  mkdir providence warwick
+  453  ls
+  454  touch providence/475valleyst
+  455  ls
+  456  ls providence/
+  457  cd providence/
+  458  touch 123smithst
+  459  touch 499hopest
+  460  ls
+  461  mkdir eastside
+  462  mkdir southside
+  463  ls
+  464  ls -la
+  465  echo waterfire
+  466  echo waterfire > 475valleyst 
+  467  ls 475valleyst 
+  468  cat 475valleyst 
+  469  cat 499hopest 
+  470  echo careerdevs >>waterfire
+  471  cat 475valleyst 
+  472  cat careerdevs >> 475valleyst 
+  473  cat 475valleyst 
+  474  cat careerdevs > 475valleyst 
+  475  echo careerdevs > 475valleyst 
+  476  cat 475valleyst 
+  477  vi 475valleyst 
+  478  cat 475valleyst 
+  479  ls -la
+  480  chmod 740 475valleyst 
+  481  ls -la
+  482  475valleyst
+  483  ./475valleyst
+  484  cat 475valleyst 
+  485  la
+  486  clear
+  487  ..
+  488  mkdir javascript
+  489  cd javascript
+  490  mkdir DOM
+  491  cd DOM
+  492  touch index.html
+  493  c9 index.html
+  494  git init
+  495  ..
+  496  clear
+  497  unzip git_tutorial.zip
+  498  cd git_tutorial
+  499  cd work
+  500  touch index.html
+  501  c9 index.html
+  502  ..
+  503  mkdir new\ directory
+  504  ls
+  505  cd new\ directory
+  506  script.js
+  507  touch script.js
+  508  ls
+  509  ..
+  510  ls
+  511  cd html
+  512  ls
+  513  cat index.html
+  514  c9 index.html
+  515  mv index.html repos/
+  516  mv index.html ..
+  517  ..
+  518  ls
+  519  mv index.html repos/
+  520  cd reposs
+  521  cd repos
+  522  ls
+  523  c
+  524  ls
+  525  mkdir unix102
+  526  ls
+  527  touch unix102/names
+  528  cd unix102
+  529  ls
+  530  .
+  531  ..
+  532  ls
+  533  ls unix102
+  534  cd unix102
+  535  ls -l
+  536  ls -la
+  537  vi names
+  538  cat names
+  539  echo Fappiano >> names
+  540  ls
+  541  ls names
+  542  cat names
+  543  echo geek >> names
+  544  cat names
+  545  vi names
+  546  touch presto 
+  547  ls -la
+  548  echo "ls -la" > presto
+  549  cat  presto
+  550  echo "touch chango" >> presto
+  551  cat presto
+  552  echo "cat names" >> presto
+  553  cat presto
+  554  vi presto
+  555  clear
+  556  cat presto
+  557  ls -la
+  558  chmod 744 presto
+  559  ls -la
+  560  la 
+  561  ./presto
+  562  cat presto
+  563  ls
+  564  chmod 745 presto
+  565  ls -la
+  566  vi index.html
+  567  history
+  568  history > myunixwork
